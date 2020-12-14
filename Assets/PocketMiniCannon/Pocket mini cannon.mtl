@@ -1,0 +1,33 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl Anodized Rough Red
+Kd 0 0 0
+Ks 0.6 0.0180056 0.0276951
+
+newmtl Anodized Rough Orange
+Kd 0 0 0
+Ks 0.79945 0.32781 0.0339682
+
+newmtl Cannon:color:192:192:192
+Kd 0.752941 0.752941 0.752941
+Ks 0 0 0
+
+newmtl Anodized Rough Grey #1
+Kd 0 0 0
+Ks 0.515023 0.515023 0.515023
+
+newmtl Hard Rough Plastic Green
+Kd 0.209857 0.31313 0.209857
+Ks 0.992157 0.992157 0.992157
+
+newmtl Hard Rough Plastic Black
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.992157 0.992157 0.992157
+
+newmtl Anodized Rough Orange
+Kd 0 0 0
+Ks 0.79945 0.32781 0.0339682
+
+newmtl Ball:color:255:255:255
+Kd 1 1 1
+Ks 0 0 0
